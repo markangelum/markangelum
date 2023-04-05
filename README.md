@@ -1,4 +1,9 @@
 ### Hi there 👋
+* 🔭 I am currently working on my skills
+* 🌱 I am currently learning web development
+* 📫 How to reach me: markangeluanicas@gmail.com
+* 😄 Pronouns: He/Him
+* ⚡ Fun fact: I do not get bored eating sisig
 
 <!--
 **markangelum/markangelum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
